@@ -23,7 +23,13 @@ This repository showcases my *Power BI dashboards and data analysis projects*, b
 ### 🔵 Supermarket Sales Dashboard
 - Analyzed customer behavior, city-wise sales, and top product categories.  
 - Displayed KPIs for total profit, average rating, and payment type.
+- 
+####🟠 HR Executive Dashboard
+Monitored employee metrics including headcount, attrition rate, and departmental distribution.
 
+Visualized hiring trends, tenure analysis, and performance ratings.
+
+Enabled strategic workforce planning through interactive filters and KPIs.
 ---
 
 ## 🧠 Tools & Skills
